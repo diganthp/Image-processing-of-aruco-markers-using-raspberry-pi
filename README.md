@@ -1,1 +1,1 @@
-# Image-processing-of-aruco-markers-using-raspberry-pi
+# Image processing of Aruco Markers using Raspberry Pi
