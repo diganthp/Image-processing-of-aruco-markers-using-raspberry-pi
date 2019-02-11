@@ -1,5 +1,5 @@
 # Image processing of Aruco Markers using Raspberry Pi
-
+By Dheeraj Kamath, Diganth P, Balaji and Harshith J Shiva
 ## Aruco Markers
 ArUco markers are binary square fiducial markers that can be used for camera pose estimation. Their main benefit is that their detection is robust, fast and simple.
 
